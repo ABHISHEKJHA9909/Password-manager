@@ -1,5 +1,5 @@
 # passwordGenerator
-This is a terminal based password manager.which is can generate strong password and can also save so one don't need to remember it.
+This is a terminal based password manager. Which is can generate strong password and can also save so one don't need to remember it.
 
 Features
 >Generate strong password with atleast
